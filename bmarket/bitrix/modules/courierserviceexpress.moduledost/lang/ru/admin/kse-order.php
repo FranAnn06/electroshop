@@ -1,0 +1,39 @@
+<?php
+
+$MESS['KSE_ORDER_H1']   = 'Оформление заказа на перевозку в Курьер Сервис Экспресс';
+$MESS['KSE_ORDER_H2']	='Ваши заказы и накладные';
+$MESS['KSE_ORDER_H3']	='Статусы накладных обновлены';
+$MESS['KSE_ORDER_NUMZAK'] ='№ заказа КСЭ';
+$MESS['KSE_ORDER_NUMNAKL'] ='№ накладной КСЭ';
+$MESS['KSE_ORDER_NUMDATE'] ='Дата оформления';
+$MESS['KSE_ORDER_NUMADDR'] ='Адрес отправителя';
+$MESS['KSE_ORDER_NUMZAKID'] ='ID заказа в магазине';
+$MESS['KSE_ORDER_GRUZMASS'] ='Масса груза, кг';
+$MESS['KSE_ORDER_PLACES'] ='Кол-во мест';
+$MESS['KSE_ORDER_ADDZAK'] ='Добавить в заказ';
+$MESS['KSE_ORDER_ZAKOFF'] ='Заказ уже оформлен';
+$MESS['KSE_ORDER_ZAKINFO'] ='Информация для оформления заказа';
+$MESS['KSE_ORDER_DATEZAB'] ='Дата забора груза:';
+$MESS['KSE_ORDER_DATEVYB'] = 'Нажмите для выбора даты';
+$MESS['KSE_ORDER_TIMEZAB'] = 'Время забора груза:';
+$MESS['KSE_ORDER_OTPRAV'] = 'Отправитель груза:';
+$MESS['KSE_ORDER_OTPRAV_FIO'] = 'ФИО отправителя груза:';
+$MESS['KSE_ORDER_OTPRAVCITY'] = 'Город отправителя (начните вводить):';
+$MESS['KSE_ORDER_OTPRAVADDR'] = 'Адрес отправителя:';
+$MESS['KSE_ORDER_OTPRAVPHONE'] = 'Телефон отправителя:';
+$MESS['KSE_ORDER_OTPRAVEMAIL'] = 'Email отправителя:';
+$MESS['KSE_ORDER_URG'] = 'Срочность:';
+$MESS['KSE_ORDER_PAYER'] = 'Плательщик:';
+$MESS['KSE_ORDER_PAYMETHOD'] = 'Способ оплаты:';
+$MESS['KSE_ORDER_DOSTMETHOD'] = 'Способ доставки:';
+$MESS['KSE_ORDER_GRUZTYPE'] = 'Тип груза:';
+$MESS['KSE_ORDER_MASSA'] = 'Масса заказа (рассчитывается автоматически), кг:';
+$MESS['KSE_ORDER_MEST'] = 'Кол-во мест (рассчитывается автоматически):';
+$MESS['KSE_ORDER_COMMENT'] = 'Комментарий отправителя:';
+$MESS['KSE_ORDER_BUTTON'] = 'Сформировать заказ из выбранных накладных';
+
+$MESS['OPTIONS_NOSOAP'] ='На сервере не установлен SOAP или CURL. Работа модуля невозможна';
+$MESS['OPTIONS_NOLOGIN'] ='Не указаны авторизационные данные на странице настроек модуля.';
+$MESS['ORDER_NODATA'] ='Не смогли оформить заказ. Нет связи с базой КСЭ. Попробуйте чуть позже. Если ошибка повторится, обратитесь к своему менеджеру КСЭ.';
+$MESS['ERROR_AUTH'] = "Ошибка авторизации. Проверьте логин и пароль в настройках модуля.";
+$MESS['NO_ORDERS'] = "Сформированных заказов, готовых к отправке нет";

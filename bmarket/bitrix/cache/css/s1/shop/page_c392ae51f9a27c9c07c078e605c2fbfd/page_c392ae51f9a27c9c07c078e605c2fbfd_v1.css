@@ -1,0 +1,12 @@
+
+
+/* Start:/bitrix/components/bitrix/breadcrumb/templates/.default/style.min.css?1595691791467*/
+.bx-breadcrumb{margin:10px 0}.bx-breadcrumb i{color:#b5bdc2;line-height:13px;font-size:12px;vertical-align:middle;margin-right:5px}.bx-breadcrumb .bx-breadcrumb-item{float:left;margin-bottom:10px;white-space:nowrap;line-height:13px;vertical-align:middle;margin-right:10px}.bx-breadcrumb .bx-breadcrumb-item span{font-family:"Open Sans",Arial,"Helvetica Neue",Helvetica,sans-serif;font-size:13px;white-space:normal}.bx-breadcrumb .bx-breadcrumb-item a{border-bottom:0}
+/* End */
+
+
+/* Start:/bitrix/components/bitrix/menu/templates/.default/style.min.css?1595691791490*/
+ul.left-menu{list-style:none;margin:0;padding:0;margin-bottom:8px;position:relative}ul.left-menu li{padding:10px 16px;background:#f5f5f5 url(/bitrix/components/bitrix/menu/templates/.default/images/left_menu_bg.gif) top repeat-x}ul.left-menu li a{font-size:100%;color:#bc262c;font-weight:bold;text-decoration:none}ul.left-menu li a:visited{color:#bc262c}ul.left-menu li a:hover{color:#bc262c}ul.left-menu li a.selected:link,ul.left-menu li a.selected:visited,ul.left-menu li a.selected:active,ul.left-menu li a.selected:hover{color:#fc8d3d}
+/* End */
+/* /bitrix/components/bitrix/breadcrumb/templates/.default/style.min.css?1595691791467 */
+/* /bitrix/components/bitrix/menu/templates/.default/style.min.css?1595691791490 */

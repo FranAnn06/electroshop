@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Hot Deals", 
+		"/hot-deals/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Laptops", 
+		"/laptops/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Smartphones", 
+		"/smartphones/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Cameras", 
+		"/cameras/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Accessories", 
+		"/accessories/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

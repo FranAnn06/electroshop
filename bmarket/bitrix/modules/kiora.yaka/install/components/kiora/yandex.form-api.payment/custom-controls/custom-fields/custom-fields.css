@@ -1,0 +1,113 @@
+.adm-workarea  .custom-fields-item-conrol-wrap {
+    position: relative;
+    width: 89%;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-width: 0 0 1px 0;
+}
+
+.adm-workarea .custom-field-conrol-button {
+    position: absolute;
+    right: -22px;
+    top: calc(50% - 8px);
+    top: 6px;
+    width: 15px;
+    height: 15px;
+    line-height: 14px;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+    background-color: #edf3f4;
+    color: #5a5a5a;
+}
+
+.adm-workarea .custom-field-conrol-button:hover{
+
+    box-shadow: 1px 1px 4px 0px rgba(0,0,0,.2);
+}
+
+.adm-workarea .custom-field-conrol-button.add {
+    left: calc(50% - 7px);
+    top: 5px;
+}
+
+.adm-workarea  .custom-fields-item-conrol-wrap .custom-field-conrol-num-wrap {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 5px 0px;
+}
+
+.adm-workarea .custom-fields-item-conrol-wrap input[type="text"].custom-field-conrol-input {
+    width: calc(100% - 12px);
+}
+
+.adm-workarea .custom-fields-item-conrol-wrap input[type="number"]{
+    background: #fff;
+    border: 1px solid;
+    border-color: #87919c #959ea9 #9ea7b1 #959ea9;
+    border-radius: 4px;
+    color: #000;
+    box-shadow: 0 1px 0 0 rgba(255,255,255,0.3), inset 0 2px 2px -1px rgba(180,188,191,0.7);
+    display: inline-block;
+    outline: 0;
+    vertical-align: middle;
+    font-size: 13px;
+    height: 25px;
+    padding: 0 5px;
+    margin: 0;
+}
+
+.adm-workarea .custom-fields-item-conrol-wrap .custom-field-conrol-checkbox-label {
+    padding-left: 20px;
+}
+
+.adm-workarea .custom-fields-item-conrol-wrap .custom-field-conrol-num-wrap input{
+    width: 40%;
+}
+
+.adm-workarea .custom-fields-conrol-wrap .custom-fields-conrol-footer {
+    position: relative;
+    margin: -10px 0px 10px;
+    padding: 0px 0px;
+    width: 89%;
+    min-height: 10px;
+    text-align: right;
+    color: #999;
+}
+
+.adm-workarea .custom-fields-conrol-wrap .custom-fields-conrol-footer .total {
+    font-style: italic;
+    color: #999;
+}
+
+.adm-workarea .custom-fields-conrol-wrap .custom-field-conrol-type {
+    width: calc(100% - 110px);
+}
+
+.adm-workarea .custom-fields-conrol-wrap .custom-field-conrol-checkbox-wrap {
+    width: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.adm-workarea .custom-fields-conrol-wrap .custom-field-conrol-options-wrap{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.adm-workarea .custom-fields-conrol-wrap .custom-field-conrol-option-wrap {
+    position: relative;
+    width: 66%;
+}
+
+.adm-workarea .custom-fields-conrol-wrap .custom-field-conrol-options-wrap .custom-field-conrol-button.add {
+    left: initial;
+    bottom: initial;
+    right: -22px;
+    top: calc(50% - 8px);
+}

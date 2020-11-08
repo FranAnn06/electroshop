@@ -1,0 +1,1 @@
+<? require ($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/kiora.yaka/admin/payments_history.php"); ?>

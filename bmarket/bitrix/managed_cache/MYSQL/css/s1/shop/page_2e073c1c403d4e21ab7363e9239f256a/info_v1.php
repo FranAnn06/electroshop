@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/shop/components/bitrix/catalog.element/detail/style.css" => "159681840221762","/local/templates/shop/components/bitrix/catalog.comments/Catalog_Comments/style.css" => "15969191073822","/local/templates/shop/components/bitrix/iblock.vote/stars1/style.css" => "1596925251832",); ?>

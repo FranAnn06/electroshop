@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/templates/shop/components/bitrix/sender.subscribe/subscribe/style.css" => "15960230094395",); ?>

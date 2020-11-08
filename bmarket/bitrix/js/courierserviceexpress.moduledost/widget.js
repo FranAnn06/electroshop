@@ -1,0 +1,1 @@
+!function(e,t,n,c,s,a,i){e.CsePvzWidget=s,e[s]=e[s]||function(){(e[s].q=e[s].q||[]).push(arguments)},e[s].l=1*new Date,a=t.createElement(n),i=t.getElementsByTagName(n)[0],a.async=1,a.src=c,i.parentNode.insertBefore(a,i)}(window,document,'script','https://lk.cse.ru/dist/js/widget.js','csepvzwidget');csepvzwidget('init', '38a0abb7099ea700c597b17764ffe6a9');

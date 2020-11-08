@@ -1,0 +1,1 @@
+<?define("sotbit_mailing_TEMPORARY_CACHE", "fDEAAnswUwhhAio2AjcKLQF1");?>

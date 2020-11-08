@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/shop/components/bitrix/sale.personal.section/Personal/bitrix/main.profile/.default/script.js" => "1597481052635",); ?>

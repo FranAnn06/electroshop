@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/templates/shop/components/bitrix/catalog.top/New/slider/script.js" => "159603652832306",); ?>
